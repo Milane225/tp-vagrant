@@ -1,7 +1,7 @@
 # Création de notre première machine virttuelle
 
 ## Pré-requis
-==> Installation de VirtualBox
+==> Installation de VirtualBox <br>
 ==> Installation de Vagrant
 
 ## Etape 1
