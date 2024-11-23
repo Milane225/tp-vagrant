@@ -7,7 +7,7 @@
 ## Etape 1
 Ouvrir la console dans l'emplacement du dossier Vagrant
 
-## Lancer Initialiser Vagrant avec une image système
+## Initialiser Vagrant avec une image système
 ````
 vagrant init ubuntu/bionic64
 ````
