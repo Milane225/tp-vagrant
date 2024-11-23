@@ -22,9 +22,9 @@ vagrant up
 vagrant global-status
 ````
 
-## statut des déploiements par rapport au dossier ou on se trouve, ou il y a le fichier vagrantfile
+## Statut des déploiements par rapport au dossier ou on se trouve, ou il y a le fichier vagrantfile
 ````
-status
+vagrant status
 ````
 
 ## Connexion à la VM
